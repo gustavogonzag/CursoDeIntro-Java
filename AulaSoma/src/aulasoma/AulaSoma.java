@@ -11,6 +11,7 @@ public class AulaSoma {
         Multi resmulti = new Multi();
         Divisao resdivi = new Divisao();
         
+        //resultado.soma(4,2);
         resultado.soma(4,2);
         resdivi.divisao(4, 2);
         ressub.subtracao(4, 2);
